@@ -3,3 +3,5 @@ tuffy
 kalu
 moti
 kitty
+coco
+jelly
